@@ -12,7 +12,7 @@ export function Summary() {
                     <img src={ incomeImg } alt="Entradas - Imagem com seta verde apontando para cima" />
                 </header>
 
-                <strong>R$ 1000,00</strong>
+                <strong>+ R$ 1000,00</strong>
             </div>
             <div>
                 <header>
